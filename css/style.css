@@ -2,7 +2,7 @@
 .float-container {
  display: grid;
  grid-template-columns: repeat(5, 10px);
- grid-gap: 30px;
+ grid-gap: 40px;
  margin-left: 65px;
 }
 
@@ -12,8 +12,8 @@
   padding: 5px;
  
 } 
-#genthreeOne{
-  width: 30px;
+#genthreeOne, #genthree2, #genthree3 {
+  width: 40px;
   height: 35px;
   outline: 0;
   
@@ -23,38 +23,18 @@
   box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
 }
 
-#genthree2{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
 
-#genthree3{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
 
 /* lucky 4 */
 .float-container1 {
   display: grid;
   grid-template-columns: repeat(5, 10px);
-  grid-gap: 30px;
-  margin-left: 45px;
+  grid-gap: 40px;
+  margin-left: 35px;
  }
 
-#genfour1{
-  width: 30px;
+#genfour1, #genfour2, #genfour3, #genfour4{
+  width: 40px;
   height: 35px;
   outline: 0;
   
@@ -64,49 +44,17 @@
   box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
 }
 
-#genfour2{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
-
-#genfour3{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
-
-#genfour4{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
 
 /* lucky 5 */
 .float-container2 {
   display: grid;
   grid-template-columns: repeat(5, 10px);
-  grid-gap: 30px;
-  margin-left: 30px;
+  grid-gap: 40px;
+  margin-left: 10px;
  }
 
-#genfive1{
-  width: 30px;
+#genfive1, #genfive2, #genfive3, #genfive4, #genfive5{
+  width: 40px;
   height: 35px;
   outline: 0;
   
@@ -116,60 +64,13 @@
   box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
 }
 
-#genfive2{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
 
-#genfive3{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
-
-#genfive4{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
-
-#genfive5{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
 
 /* lucky 6 */
-.float-container3 {
-  display: grid;
-  grid-template-columns: repeat(5, 10px);
-  grid-gap: 30px;
-  margin-left: 0px;
- }
 
-#gensix1{
-  width: 30px;
+
+#gensix1, #gensix2, #gensix3, #gensix4, #gensix5{
+  width: 40px;
   height: 35px;
   outline: 0;
   
@@ -179,54 +80,12 @@
   box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
 }
 
-#gensix2{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
 
-#gensix3{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
-
-#gensix4{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
-
-#gensix5{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
 
 /* lucky 7 */
 
-#genseven1{
-  width: 30px;
+#genseven1, #genseven2, #genseven3, #genseven4, #genseven5{
+  width: 40px;
   height: 35px;
   outline: 0;
   
@@ -236,53 +95,18 @@
   box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
 }
 
-#genseven2{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
 
-#genseven3{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
-
-#genseven4{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
-
-#genseven5{
-  width: 30px;
-  height: 35px;
-  outline: 0;
-  
-  
-  border-radius: 0.25rem;
-  border: 1px solid transparent;
-  box-shadow: 2px 3px 7px 0px rgb(128, 128, 128);
-}
 
 /* lucky 1 */
+.float-container3 {
+  display: grid;
+  grid-template-columns: repeat(5, 10px);
+  grid-gap: 40px;
+  margin-left: 50px;
+ }
+
 #genone1{
-  width: 30px;
+  width: 40px;
   height: 35px;
   outline: 0;
   
